@@ -1,0 +1,14 @@
+/* tailwind.config.js */
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        luxuryGold: "#D4AF37",
+        luxuryBlack: "#0A0A0A",
+      },
+      fontFamily: {
+        serif: ["Playfair Display", "serif"],
+      },
+    },
+  },
+};
